@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>357755354781-7suvnak0vt4v2v6qaugvp4cp724t4tgb.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.357755354781-7suvnak0vt4v2v6qaugvp4cp724t4tgb</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBHxOANvdpLzI5NZowi_sqYJTT1zcI-v70</string>
+	<key>GCM_SENDER_ID</key>
+	<string>357755354781</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>EnesYavuz.SolarSystem</string>
+	<key>PROJECT_ID</key>
+	<string>solarsystem-7b81a</string>
+	<key>STORAGE_BUCKET</key>
+	<string>solarsystem-7b81a.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:357755354781:ios:48ddf64c2b1e35d9f01e74</string>
+	<key>DATABASE_URL</key>
+	<string>https://solarsystem-7b81a.firebaseio.com</string>
+</dict>
+</plist>
